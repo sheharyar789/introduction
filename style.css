@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.intro-center{
+    padding: 2rem 0;
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+    background: black;
+}
+
+.sub-heading{
+text-align: center;
+text-transform: uppercase;
+font-size: 2rem;
+padding-top:20px ;
+color: #fff;
+width: 100%;
+
+padding: 2rem;
+}
+.name{
+    margin-bottom: 5px;
+}
+
+h3{
+    margin-bottom: 5px;
+}
+
+.education{
+    text-transform: uppercase;
+    padding: 1rem 1.5rem;
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+.tech-interest{
+    color: #fff;
+    padding: 1rem 1.25rem;
+    text-align: center;
+    line-height: 2;
+   
+}
+
+.hobbies{
+    text-transform: uppercase;
+    padding: 1rem 1.5rem;
+    color: #fff;
+    margin-bottom: 5px;  
+}
+
+.hobbies h3{
+    font-size: 2rem;
+}
+
+
+.thank p{
+    color: #fff;
+    padding: 1rem 1.25rem;
+    text-align: center;
+    line-height: 2;
+    font-size: 1rem;
+    letter-spacing: 2px;
+}
+
+.tech-interest p{
+    font-size: 1rem;
+    letter-spacing: 2px;
+}
+
+
+.name h3{
+    text-transform: uppercase;
+    padding: 1rem 1.5rem;
+    color: #fff;
+    margin-bottom: 2px;
+}
+
+
+
+    .future-goals p{
+    color: #fff;
+    padding: 1rem 1.25rem;
+    text-align: center;
+    line-height: 2;
+    font-size: 1rem;
+    letter-spacing: 2px;
+}
